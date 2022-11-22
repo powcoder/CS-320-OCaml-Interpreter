@@ -1,0 +1,22 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+Mul
+PushI 34
+PushI -10
+Neg
+Swap
+Mul
+Pop
+PushB <true>
+PushI 8
+PushI -8
+Add
+PushN __main__
+Div
+PushI 500
+PushI 100
+Sub
+PushI "str"
+Quit
